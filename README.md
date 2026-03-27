@@ -27,7 +27,7 @@ I'm a mechanical engineer transitioning into data science, bringing domain knowl
 
 | Project | Description | Tools |
 |---|---|---|
-| [Predictive Maintenance](./predictive-maintenance) | ML model to predict machine failure from sensor data | Python, Pandas, Scikit-learn |
+| [Predictive Maintenance](devanshgahlot/predictive-maintenance) | ML model to predict machine failure from sensor data | Python, Pandas, Scikit-learn |
 | [Claim Predictor](./claim-predictor) | Logistic regression to find best predictor of insurance claims | Python, Pandas |
 | [Robo-Plucker](./robo-plucker) | Autonomous robot for plant health assessment | Python, OpenCV |
 
