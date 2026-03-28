@@ -36,7 +36,7 @@ I'm a mechanical engineer transitioning into data science, bringing domain knowl
 ## 📬 Get in touch
 
 - 📧 102devansh@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/devansh-gahlot-742101179)
+- 💼 [LinkedIn](https://www.linkedin.com/in/devansh-gahlot-742101179/)
 - 📍 Delhi, India — open to remote roles globally
 
 ---
